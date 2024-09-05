@@ -1,0 +1,29 @@
+.navbar{
+    height: 120px;
+    background-color:#1A3A5A;
+    display: flex;
+    padding:0px 70px 0px 55px;
+    justify-content: space-between;
+}
+
+.navbar-logo{
+    height: 120px;
+
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.navbar-item{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 150px;
+}
+
+.navbar-item:hover {
+    transform: scale(1.07);
+  }

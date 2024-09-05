@@ -1,0 +1,9 @@
+.footer-bar{
+    height: 100px;
+    background-color: #1A3A5A;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
